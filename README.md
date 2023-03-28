@@ -1,9 +1,13 @@
-# React TypeScript Starter Pack
+# TodoApp
+- [DEMO LINK](https://denys-danyliuk.github.io/react_crud_app/)
 
-To use this template click `Use this template`
+## How to run project locally
 
-### Available Scripts
+In the project directory, you should run:
 
-`Deploy` - available to deploy your application to gh-pages
+### `npm i`
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
