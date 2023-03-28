@@ -8,6 +8,11 @@ module.exports = {
     'react/prop-types': 0,
     'react/self-closing-comp': 0,
     'react/display-name': 0,
+    'react/jsx-uses-react': 'off',
+    'react/react-in-jsx-scope': 'off',
+    'jsx-a11y/label-has-associated-control': ['error', {
+      assert: 'either',
+    }],
 
     // JavaScript
     semi: 0,
