@@ -68,6 +68,7 @@ export const App = () => {
     setUrl('');
     setImage('');
     setIsEdited(false);
+    setCount(prev => prev + 1);
   };
 
   const handleSaveAfterEdit = async () => {
